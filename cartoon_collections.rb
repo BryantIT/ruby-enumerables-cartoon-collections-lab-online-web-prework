@@ -3,7 +3,7 @@ def roll_call_dwarves(dwarves)
   p "#{index+1}:#{item}" }
 end
 
-def summon_captain_planet(veggies)
+def summon_captain_planet(planeteer_calls)
   
   
 end
